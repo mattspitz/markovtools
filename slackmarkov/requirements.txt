@@ -1,4 +1,4 @@
 leveldb==0.193
-requests==2.8.1
+requests==2.20.0
 slacker==0.8.6
 wheel==0.24.0
